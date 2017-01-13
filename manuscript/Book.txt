@@ -26,8 +26,6 @@ titles/housing.md
 manifesto/housing.md
 titles/infrastructure.md
 manifesto/infrastructure.md
-titles/license.md
-manifesto/license.md
 titles/local_government.md
 manifesto/local_government.md
 titles/military.md
