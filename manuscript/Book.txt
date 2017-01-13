@@ -1,3 +1,4 @@
+titles/index.md
 manifesto/index.md
 titles/communications.md
 manifesto/communications.md
