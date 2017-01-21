@@ -1,3 +1,6 @@
+frontmatter.md
+credits.md
+mainmatter.md
 titles/index.md
 manifesto/index.md
 titles/communications.md
